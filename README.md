@@ -109,21 +109,9 @@ rock-paper-scissors/
 
 ## Future Enhancements
 
-1. Add more game options (e.g., Lizard, Spock).
+1. Add more game options.
 2. Include sound effects for game events.
 3. Provide an option to reset the scores.
 4. Add animations for a better user experience.
 
----
-
-## Credits
-
-- Icons: Custom-designed images in the `images` folder.
-- Code: Developed by [Your Name].
-
----
-
-## License
-
-This project is licensed under the MIT License. Feel free to use, modify, and distribute this project as needed.
 
